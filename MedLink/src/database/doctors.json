@@ -1,0 +1,64 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "telephone": "123-456-7890",
+      "date_of_birth": "1980-02-12",
+      "password": "password123",
+      "salary": 150000,
+      "address": "123 Main St, Anytown, USA",
+      "qualification": "MBBS, MD",
+      "gender": "Male",
+      "years_of_experience": 10
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "telephone": "987-654-3210",
+      "date_of_birth": "1990-08-25",
+      "password": "jane123",
+      "salary": 120000,
+      "address": "456 Elm St, Othertown, USA",
+      "qualification": "MBBS, MS",
+      "gender": "Female",
+      "years_of_experience": 5
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "telephone": "555-123-4567",
+      "date_of_birth": "1975-01-01",
+      "password": "bob123",
+      "salary": 180000,
+      "address": "789 Oak St, Thistown, USA",
+      "qualification": "MBBS, MD, PhD",
+      "gender": "Male",
+      "years_of_experience": 15
+    },
+    {
+      "id": 4,
+      "name": "Maria Rodriguez",
+      "telephone": "901-234-5678",
+      "date_of_birth": "1985-04-15",
+      "password": "maria123",
+      "salary": 100000,
+      "address": "321 Pine St, Anytown, USA",
+      "qualification": "MBBS, MS",
+      "gender": "Female",
+      "years_of_experience": 8
+    },
+    {
+      "id": 5,
+      "name": "David Lee",
+      "telephone": "111-222-3333",
+      "date_of_birth": "1992-10-20",
+      "password": "david123",
+      "salary": 140000,
+      "address": "901 Maple St, Othertown, USA",
+      "qualification": "MBBS, MD",
+      "gender": "Male",
+      "years_of_experience": 6
+    }
+  ]
+}

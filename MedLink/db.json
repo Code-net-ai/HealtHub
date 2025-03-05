@@ -1,0 +1,134 @@
+{
+  "patients": [
+    {
+      "id": "f4c6",
+      "name": "ALIDU SEIDU",
+      "age": "23",
+      "address": "Kasoa",
+      "phone": "0599113647",
+      "result": "headach",
+      "cost": "200",
+      "gender": ""
+    },
+    {
+      "id": "266b",
+      "name": "ALIDU SEIDU",
+      "age": "23",
+      "address": "Kasoa",
+      "phone": "0599113647",
+      "result": "headach",
+      "cost": "200",
+      "gender": ""
+    }
+  ],
+  "doctors": [
+    {
+      "id": "8af5",
+      "name": "John",
+      "phone": "0242139982",
+      "date": "2025-01-31",
+      "ID": "Doc123",
+      "password": "default",
+      "expeirence": "10",
+      "Qualification": "Surgeon",
+      "salary": "15000",
+      "gender": "male"
+    },
+    {
+      "id": "26cd",
+      "name": "Fredrick",
+      "phone": "02490132282",
+      "date": "2020-01-31",
+      "ID": "Doc198",
+      "password": "default",
+      "expeirence": "10",
+      "Qualification": "Optometry",
+      "salary": "15000",
+      "gender": "male"
+    },
+    {
+      "id": "dd4d",
+      "name": "Georgina",
+      "phone": "0543807654",
+      "date": "2024-12-06",
+      "ID": "Doc445",
+      "password": "default",
+      "expeirence": "8",
+      "Qualification": "Cardiovascular",
+      "salary": "7000",
+      "gender": "male"
+    },
+    {
+      "id": "9d9e",
+      "name": "Georgina",
+      "phone": "0543807654",
+      "date": "",
+      "ID": "Doc445",
+      "password": "default",
+      "expeirence": "8",
+      "Qualification": "Cardiovascular",
+      "salary": "7000",
+      "gender": "male"
+    },
+    {
+      "id": "5f3c",
+      "name": "Georgina",
+      "phone": "0543807654",
+      "date": "",
+      "ID": "Doc445",
+      "password": "default",
+      "expeirence": "8",
+      "Qualification": "Cardiovascular",
+      "salary": "7000",
+      "gender": "male"
+    },
+    {
+      "id": "e2af",
+      "name": "ALIDU SEIDU",
+      "phone": "0599113647",
+      "date": "",
+      "ID": "u8",
+      "password": "fghjk",
+      "expeirence": "4",
+      "Qualification": "Masters",
+      "salary": "2000",
+      "gender": "male"
+    }
+  ],
+  "nurses": [
+    {
+      "id": "f5ab",
+      "name": "Georgina",
+      "phone": "0543807654",
+      "date": "",
+      "ID": "Doc445",
+      "password": "default",
+      "expeirence": "8",
+      "Qualification": "Cardiovascular",
+      "salary": "7000"
+    },
+    {
+      "id": "d08e",
+      "name": "Georgina",
+      "phone": "0543807654",
+      "date": "",
+      "ID": "Doc445",
+      "password": "default",
+      "expeirence": "8",
+      "Qualification": "Cardiovascular",
+      "salary": "7000"
+    },
+    {
+      "id": "8b3c",
+      "name": "Georgina",
+      "phone": "0543807654",
+      "date": "2025-02-19",
+      "ID": "Doc445",
+      "password": "default",
+      "expeirence": "8",
+      "Qualification": "Cardiovascular",
+      "salary": "7000",
+      "gender": "male"
+    }
+  ]
+}

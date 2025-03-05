@@ -1,0 +1,46 @@
+.nurses{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container{
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: xx-large;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+    color:#4CAF50;
+    background-image: url('../images/1709628959014.png');
+}
+
+button{
+    background-color:azure;
+    width: 20%;
+    text-align: center;
+    font-size: large;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3rem;
+    color: darkcyan;
+    border: darkcyan solid;
+}
+button a:hover{
+    background-color:aliceblue;
+    color: #4CAF50;
+}
+button:active{
+    background-color:aliceblue;
+    color: black;
+
+}
+a{
+    text-decoration: none;
+    color:  darkcyan;
+}

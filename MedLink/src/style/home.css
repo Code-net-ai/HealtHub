@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#cov{
+    height: 100%;
+    width: 100%;
+    background-color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+}
+
+.home{
+    background-color:whitesmoke;
+    width: 50%;
+    margin: 0 auto;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+ 

@@ -1,0 +1,21 @@
+*{
+     margin: 0;
+     padding: 3px;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content{
+ padding: 2rem;
+ border: black solid 1px;
+ border-radius: 5px;
+ 
+}
+ul li{
+    list-style: none;
+    text-transform: uppercase;
+    padding: 0.4rem;
+}
+button{
+    margin-left: 40%
+    
+}

@@ -1,0 +1,52 @@
+
+.main{
+    
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color:aliceblue;
+}
+h1{
+    margin-right: 40rem;
+}
+  
+    
+
+.header-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    width: 100%;
+}
+
+
+input{
+    padding: 10px;
+    width: 20%;
+    border-radius: 10px;
+}
+
+input:active{
+    border: skyblue solid;
+}
+input:hover{
+    background-color: aliceblue;
+}
+#BB{
+    background-color: blue;
+    color: white;
+    border: solid white;
+    margin-right: 40%;
+    font-weight: bolder;
+    width: 30%;
+    
+    
+}
+
+

@@ -1,0 +1,36 @@
+
+
+.inp{
+
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    padding:0.5rem;
+    margin: 0.5rem;
+    width: 15rem;
+    border: solid #4CAF50;
+    margin-top: 3rem;
+
+}
+#btn2{
+   background-color:azure ;
+    color: darkcyan;
+    text-align: center;
+    font-size: large;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 3rem;
+    border: darkcyan solid;
+
+}
+#btn2:hover{
+    background-color:aliceblue;
+    color:#4CAF50;
+}
+#btn2:active{
+    background-color:aliceblue;
+    color: black;
+
+}

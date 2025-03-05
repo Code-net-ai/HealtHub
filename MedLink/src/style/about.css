@@ -1,0 +1,64 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.nav{
+    width: 100%;
+    height: 100vh;
+    display: flex;}
+
+
+.container1{
+    height: 100vh;
+    background-color:#4CAF50;
+    width: 33.33%;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container2{
+    height: 100vh;
+    background-color: white;
+    width: 33.33%;
+    color: blue;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container3{
+    height: 100vh;
+    background-color:skyblue;
+    width: 33.33%;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container1:hover{
+    width: 45%;
+}
+.container2:hover{
+    width: 45%;
+}
+.container3:hover{
+    width: 45%;
+}
+
+.doctorLink{
+    color: blue;
+}
+
+h4 a{
+    font-size: larger;
+    font-size: xx-large ;
+    text-decoration: none;
+    color: aliceblue;
+}
