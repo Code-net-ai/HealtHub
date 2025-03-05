@@ -10,6 +10,7 @@ function ViewDoctor() {
       try {
         const response = await axios.get("http://localhost:3000/doctors");
         setDoctors(response.data);
+        console.log(response.data)
       } catch (err) {
         console.log(err);
       }
